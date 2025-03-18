@@ -106,8 +106,8 @@
 // let path = require('path')
 // console.log(path.basename("c/users/admin/website/index.html"))
 
-// let path = require('path'); 
-// console.log(path.dirname("c/users/admin/website/index.html"))
+let path = require('path'); 
+console.log(path.dirname("c/users/admin/website/index.html"))
 
 
 
