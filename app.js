@@ -364,7 +364,7 @@
 // fs.renameSync("add1.js", "lp.js")
 
 //asynchronous
-// fs.rename("Ankitha.js", "ali.js", (err)=>{
+// fs.rename("app1.js", "app2.js", (err)=>{
 //     if(err) throw err;
 //     console.log("file rename successfully");
     
